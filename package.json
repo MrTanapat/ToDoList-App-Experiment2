@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://MrTanapat.github/ToDoList-App-Experiment2",
+  "homepage": "https://MrTanapat.github.io/ToDoList-App-Experiment2",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
